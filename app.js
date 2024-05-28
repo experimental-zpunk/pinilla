@@ -1,6 +1,6 @@
 
 const audio = new Audio();
-audio.src = "audio.mp3";
+audio.src = "//raw.githubusercontent.com/punkdroide/pinilla/master/audio.mp3";
 
 
 
